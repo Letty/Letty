@@ -1,1 +1,1 @@
-Keep your AI Slop to yourself.
+# Keep your AI Slop to yourself.
